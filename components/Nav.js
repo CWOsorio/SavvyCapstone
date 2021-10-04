@@ -1,11 +1,13 @@
+export default () => `
 <nav>
     <div class="logo">
     </div>
     <ul>
       <li><a href="#">Home</a></li>
       <li><a href="#">Our team</a></li>
-      <li><a href="#">Projects</a></li>
-      <li><a href="#">Contact</a></li>
+      <li><a href="bio">Bio</a></li>
+      <li><a href="#gallery">Gallery</a></li>
     </ul>
-
-  <nav></nav>
+    <nav>
+    <i class="fas fa-bars"></i>
+  </nav>`;
