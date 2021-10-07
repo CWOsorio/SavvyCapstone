@@ -1,13 +1,7 @@
-import *as views from "./views";
+import * as views from "./views";
 
 export default () => `
 ${views["Home"]()}
 ${views["Gallery"]()}
-${views["Bio"]()}`;
-
-
-
-
-
-
-
+${views["Bio"]()}
+`;

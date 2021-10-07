@@ -1,5 +1,4 @@
 export default () => `
-
 <footer>
     <br>
     This is the footer section

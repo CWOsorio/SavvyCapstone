@@ -7,5 +7,4 @@ function render() {
   ${Main()}
   ${Footer()}`;
 }
-
 render();
