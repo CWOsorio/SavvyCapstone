@@ -1,7 +1,7 @@
 header {
-    background-image: <img src="pexels-pixabay-301673,jpg"/>
-    /* background-image: url(https://www.pexels.com/photo/pink-petaled-flowers-1002725/); */
-    background-size: cover;
+    background-image: <img src="pexels-pixabay-301673,jpg";
+    background-image: url(https://www.pexels.com/photo/pink-petaled-flowers-1002725/); */
+    <background-size> cover;
     height: 10vh;
   }
   .jumbotron {
@@ -57,4 +57,4 @@ body {
     100% {
         background-position: 0% 50%;
     }
-} */
+}
