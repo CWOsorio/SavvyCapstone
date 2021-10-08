@@ -1,2 +1,2 @@
-export default () => `
-<section id="gallery"></section>`;
+export default st => `
+<section id="gallery">GALLERY</section>`;
