@@ -11,7 +11,6 @@ export default st => `
   </div>
    <h3>
    Weather in ${st.weather.city} ${kelvinToFahrenheit(st.weather.temp)} F, feels
-   like ${kelvinToFahrenheit(st.weather.feelsLike)}F
+   like ${kelvinToFahrenheit(st.weather.feelsLike)} F
  </h3>
-
-  `;
+`;
