@@ -1,4 +1,4 @@
 export default st => `
 <header>
-  <h1>Customized Handcrafted Bows: ${st.header}</h1>
+  <h1>Customized Handcrafted Hair Bows: ${st.header}</h1>
   </header>`;

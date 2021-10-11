@@ -1,6 +1,4 @@
 export default () => `
 <footer>
-    <br>
-
-    <p>©Copyright 2021 by Cherisse.</p>
+    ©Copyright 2021 by Cherisse.
   </footer>`;

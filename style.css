@@ -3,9 +3,9 @@ header {
   background-size: cover;
   height: 10vh;
 }
- .jumbotron {
+.jumbotron {
   padding: 30px;
-  background-image: linear-gradient(180deg, pink, yellow);
+  background-image: linear-gradient(180deg,pink , purple);
 }
 
 h1 {
@@ -16,7 +16,7 @@ h1 {
 }
 .jumbotron h1 {
   text-align: center;
-  color: hotpink;
+  color: purple;
   font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-weight: 600;
   text-transform: uppercase;
@@ -45,4 +45,4 @@ body {
   100% {
     background-position: 0% 50%;
   }
-}
+
