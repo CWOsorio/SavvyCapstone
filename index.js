@@ -38,12 +38,10 @@ function addEventListeners(st) {
       document.querySelector("nav > ul").classList.toggle("hidden--mobile")
     );
 }
-
 router.hooks({
   before: (done, params) => {
     const page =
-      // eslint-disable-next-line no-prototype-builtins
-      params && params.hasOwnProperty("page")
+      params && params.hasOwnProperty("view")
         ? capitalize(params.page)
         : "Home";
     if (page === "Home") {
@@ -63,6 +61,7 @@ router.hooks({
     }
   }
 });
+
 router
   .on({
     "/": () => render(state.Home),
