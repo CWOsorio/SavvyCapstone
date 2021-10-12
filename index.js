@@ -42,6 +42,7 @@ function addEventListeners(st) {
 router.hooks({
   before: (done, params) => {
     const page =
+      // eslint-disable-next-line no-prototype-builtins
       params && params.hasOwnProperty("page")
         ? capitalize(params.page)
         : "Home";
