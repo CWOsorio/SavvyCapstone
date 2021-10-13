@@ -41,7 +41,7 @@ function addEventListeners(st) {
 router.hooks({
   before: (done, params) => {
     const page =
-      params && params.hasOwnProperty("view")
+      params && params.hasOwnProperty("page")
         ? capitalize(params.page)
         : "Home";
     if (page === "Home") {
