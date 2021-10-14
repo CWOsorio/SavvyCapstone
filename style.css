@@ -1,11 +1,11 @@
 header {
-  background-image: url(https://www.pexels.com/photo/pink-petaled-flowers-1002725/);
   background-size: cover;
   height: 10vh;
 }
 .jumbotron {
-  padding: 30px;
-  background-image: linear-gradient(180deg,pink , purple);
+  padding: 5px;
+  height: 10vh;
+  background-image: linear-gradient(180deg,pink , rgb(156, 131, 156));
 }
 
 h1 {
@@ -17,8 +17,8 @@ h1 {
 .jumbotron h1 {
   text-align: center;
   color: purple;
-  font-family: 'Raleway', Helvetica, Arial, sans-serif;
-  font-weight: 600;
+  font-family: fantasy;
+  font-weight: 300;
   text-transform: uppercase;
 }
 * {
