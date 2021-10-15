@@ -5,7 +5,7 @@ header {
 .jumbotron {
   padding: 5px;
   height: 10vh;
-  background-image: linear-gradient(180deg,pink , rgb(156, 131, 156));
+  background-image: linear-gradient(180deg,pink , rgb(238, 88, 238));
 }
 
 h1 {
