@@ -1,2 +1,3 @@
 export default st => `
-<section id="gallery">GALLERY </section>`;
+<section id="gallery">GALLERY
+</section>`;
