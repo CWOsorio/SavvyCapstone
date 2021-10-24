@@ -40,7 +40,7 @@ img {
   animation: ease-in;
 }
 body {
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #8bc7dd, #63dfc2);
+  background: linear-gradient(-45deg, rgb(214, 98, 166), pink, #8bc7dd, #63dfc2);
   background-size: 400% 400%;
   animation: gradient 15s ease infinite;
 }
