@@ -1,6 +1,10 @@
 const express = require("express");
-const app = express();
+const dotenv = require("dotenv");
 const mongoose = require('mongoose')
+
+dotenv.config();
+
+const app = express();
 
 mongoose.connect(process.env.MONGODB);
 const db = mongoose.connection;
