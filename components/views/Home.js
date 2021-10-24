@@ -7,7 +7,10 @@ export default st => `
 Weather in ${st.weather.city} ${kelvinToFahrenheit(st.weather.temp)} F, feels
 like ${kelvinToFahrenheit(st.weather.feelsLike)} F
 </h3>
+
 <img src="assets/Images/EllaDrawing.jpg">
+
+
 
 <div class="jumbotron">
     <div class="container">

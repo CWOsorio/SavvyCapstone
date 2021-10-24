@@ -9,11 +9,12 @@ hair bows for my little girl and I hope you enjoy viewing them as much as I do c
 </p>
 <div>
 <!-- It contains an article -->
+
 <br>
 <br>
 <main>
 <b>THIS SECTION IS UNDER CONSTRUCTION
-<img src="assets/Images/EllaDrawing.jpg">
+
 </main>
 <br>
 <p><button class="button">Contact</button></p>
