@@ -20,6 +20,7 @@ const logging = (request, response, next) => {
   console.log(`${request.method} ${request.url} ${Date.now()}`);
   next();
 };
+
 // CORS Middleware
 const cors = (req, res, next) => {
   res.setHeader(
@@ -38,7 +39,7 @@ const cors = (req, res, next) => {
 app.use(express.json());
 app.use(logging);
 app.use(cors);
-
+=======
 
 const app = express();
 

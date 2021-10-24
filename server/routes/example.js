@@ -4,6 +4,11 @@
 //const pizza = require("../models/Pizza");
 // const router = Router();
 
+router.route("/").get((request, response) => {
+  // handle GET request
+//   response.send(JSON.stringify({ message: "All pizzas" }));
+// });
+
 // Create record in MongoDB
 // router.post('/', (request, response) => {
 //   const newPizza = new pizza.model(request.body);
@@ -11,6 +16,7 @@
 //     return err ? response.sendStatus(500).json(err) : response.json(pizza);
 //   });
 // });
+
 
 // Get all pizza records
 // router.get("/", (request, response) => {
@@ -27,4 +33,6 @@
 //     return response.json(data);
 //   });
 // });
+=======
+
 // module.exports = router;

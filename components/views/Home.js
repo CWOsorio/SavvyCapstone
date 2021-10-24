@@ -10,8 +10,6 @@ like ${kelvinToFahrenheit(st.weather.feelsLike)} F
 
 <img src="assets/Images/EllaDrawing.jpg">
 
-
-
 <div class="jumbotron">
     <div class="container">
           <h1>Gabriella's Bows</h1>
