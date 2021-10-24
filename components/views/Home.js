@@ -15,8 +15,8 @@ like ${kelvinToFahrenheit(st.weather.feelsLike)} F
 <div class="jumbotron">
     <div class="container">
           <h1>Gabriella's Bows</h1>
-
-      </div>
-  </div>
-
+          
+    </div>
+  </div?
+       
   `;

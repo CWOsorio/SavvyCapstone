@@ -1,4 +1,5 @@
 const express = require("express");
+
 const dotenv = require("dotenv");
 const mongoose = require('mongoose')
 
@@ -37,6 +38,9 @@ const cors = (req, res, next) => {
 app.use(express.json());
 app.use(logging);
 app.use(cors);
+
+
+const app = express();
 
 app.get("/status", (request, response) => {
   response.send(JSON.stringify({ message: "Service healthy" }));
