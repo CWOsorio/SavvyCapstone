@@ -37,7 +37,7 @@ function addEventListeners(st) {
     .addEventListener("click", () =>
       document.querySelector("nav > ul").classList.toggle("hidden--mobile")
     );
-}
+    }
 router.hooks({
   before: (done, params) => {
     const page =

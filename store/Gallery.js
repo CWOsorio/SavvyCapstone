@@ -1,5 +1,6 @@
 export default {
-  header: "Handcrafted Hair Bows",
-  view: "Gallery"
+
+  header: "The Gallery Page",
+  page: "Gallery"
 
 };
