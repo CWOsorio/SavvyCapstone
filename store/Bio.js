@@ -1,4 +1,4 @@
 export default {
-  header: "Handcrafted Hair Bows",
-  view: "Bio"
+  header: "It's All About The Bows",
+  page: "Bio"
 };
