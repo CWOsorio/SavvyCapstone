@@ -1,9 +1,14 @@
 import html from "html-literal";
 import ellaDrawing from '/assets/img/ellaDrawing.jpg';
+import hairUp from '/assets/music/hairUp.mp3';
 
 
 export default st => html`
  <section id= "gallery"> GALLERY
+
+<audio autoplay>
+<source src="${hairUp}" type="audio/mpeg">
+</audio>
 
 <img src="${ellaDrawing}" />
 <img src="${ellaDrawing}" />
