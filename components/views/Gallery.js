@@ -6,6 +6,10 @@ export default st => html`
  <section id= "gallery"> GALLERY
 
 <img src="${ellaDrawing}" />
+<img src="${ellaDrawing}" />
+<img src="${ellaDrawing}" />
+<img src="${ellaDrawing}" />
+<img src="${ellaDrawing}" />
 
 </section>`;
 

@@ -10,12 +10,18 @@ Weather in ${st.weather.city} ${kelvinToFahrenheit(st.weather.temp)} F, feels
 like ${kelvinToFahrenheit(st.weather.feelsLike)} F
 </h3>
 
+
 <img src="${ellaDrawing}" />
+
 
 <div class="jumbotron">
     <div class="container">
           <h1>Gabriella's Bows</h1>
 
     </div>
+
 </div>
+</div>
+
 `;
+
