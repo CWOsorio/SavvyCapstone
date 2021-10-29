@@ -17,5 +17,5 @@ like ${kelvinToFahrenheit(st.weather.feelsLike)} F
           <h1>Gabriella's Bows</h1>
 
     </div>
-  </div?
+</div>
 `;
