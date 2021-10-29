@@ -38,8 +38,6 @@ const cors = (req, res, next) => {
 app.use(express.json());
 app.use(logging);
 app.use(cors);
-=======
-
 
 
 app.get("/status", (request, response) => {
