@@ -137,7 +137,7 @@ body {
   #gallery {
     display: grid;
     grid-template-columns: repeat(auto-fill, min-max(33%, 1fr));
-    background-color: rgb(199, 50, 132);
+    background-color: transparent;
   }
 }
 
