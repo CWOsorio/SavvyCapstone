@@ -10,12 +10,3 @@ export default links => html`
       ).join("")}
       </ul>
 </nav>`;
-
-
-
-  //        }" data-navigo>${link.text}
-  //     )
-  //   .join("")}
-  //   </ul>
-  // </nav>
-  // `;
