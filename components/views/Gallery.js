@@ -1,14 +1,22 @@
 import html from "html-literal";
 import ellaDrawing from '/assets/img/ellaDrawing.jpg';
-import hairUp from '/assets/music/hairUp.mp3';
+import HairUp from '/assets/music/HairUp.mp3';
 import butterflyBow from '/assets/video/butterflyBow.mp4';
 import silverMetallic from '/assets/video/silverMetallic.mp4';
 
 export default st => html`
- <section id= "gallery"> GALLERY
+ <section id= "gallery">
 
-<audio autoplay>
-<source src="${hairUp}" type="audio/mpeg">
+ <div class="jumbotron">
+    <div class="container">
+          <h1>Gabriella's Bows</h1>
+
+    </div>
+
+    GALLERY
+
+<audio controls>
+<source src="${HairUp}" type="audio/mpeg">
 </audio>
 
 <video width="320" height="240" autoplay loop muted>
@@ -25,7 +33,7 @@ export default st => html`
 <img src="${ellaDrawing}" />
 <img src="${ellaDrawing}" />
 
-</section>`;
+</section>`
 
 // import html from "html-literal";
 
