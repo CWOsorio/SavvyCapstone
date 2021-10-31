@@ -1,6 +1,6 @@
 import html from "html-literal";
 import ellaDrawing from '/assets/img/ellaDrawing.jpg';
-import hairUp from '/assets/music/hairUp.mp3';
+import HairUp from '/assets/music/HairUp.mp3';
 import butterflyBow from '/assets/video/butterflyBow.mp4';
 import silverMetallic from '/assets/video/silverMetallic.mp4';
 
@@ -16,7 +16,7 @@ export default st => html`
     GALLERY
 
 <audio controls>
-<source src="${hairUp}" type="audio/mpeg">
+<source src="${HairUp}" type="audio/mpeg">
 </audio>
 
 <video width="320" height="240" autoplay loop muted>
