@@ -5,9 +5,17 @@ import butterflyBow from '/assets/video/butterflyBow.mp4';
 import silverMetallic from '/assets/video/silverMetallic.mp4';
 
 export default st => html`
- <section id= "gallery"> GALLERY
+ <section id= "gallery">
 
-<audio autoplay>
+ <div class="jumbotron">
+    <div class="container">
+          <h1>Gabriella's Bows</h1>
+
+    </div>
+
+    GALLERY
+
+<audio controls>
 <source src="${hairUp}" type="audio/mpeg">
 </audio>
 
@@ -25,7 +33,7 @@ export default st => html`
 <img src="${ellaDrawing}" />
 <img src="${ellaDrawing}" />
 
-</section>`;
+</section>`
 
 // import html from "html-literal";
 
