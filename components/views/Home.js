@@ -1,5 +1,5 @@
 import html from "html-literal";
-import ellaDrawing from '/assets/img/ellaDrawing.jpg';
+//import ellaDrawing from '/assets/img/ellaDrawing.jpg';
 import HairUp from '/assets/music/HairUp.mp3';
 
 const kelvinToFahrenheit = kelvinTemp =>
@@ -15,7 +15,7 @@ like ${kelvinToFahrenheit(st.weather.feelsLike)} F
 <source src="${HairUp}" type="audio/mpeg">
 </audio>
 
-<img src="${ellaDrawing}" />
+
 
 
 
