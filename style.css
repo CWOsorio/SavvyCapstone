@@ -108,7 +108,7 @@ body {
   nav > ul {
     display: flex;
     justify-content: space-evenly;
-    padding: 0 0;
+    padding: 10;
   }
 
   nav > ul > li {
@@ -139,5 +139,10 @@ body {
     grid-template-columns: repeat(auto-fill, min-max(33%, 1fr));
     background-color: transparent;
   }
+  h2 {
+    font-size: 25px;
+    text-align: center;
+    color: purple;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
