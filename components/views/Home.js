@@ -10,18 +10,14 @@ export default st => html`
 Weather in ${st.weather.city} ${kelvinToFahrenheit(st.weather.temp)} F, feels
 like ${kelvinToFahrenheit(st.weather.feelsLike)} F
 </h3>
+<section id="jumbotron">
+    <h2>Gabriella loves Bows</h2>
+
 
 <audio controls>
 <source src="${HairUp}" type="audio/mpeg">
 </audio>
 
 <img src="${ellaDrawing}" />
-
-
-
-
-</div>
-</div>
-
 `;
 
