@@ -59,6 +59,10 @@ router.hooks({
         })
         .catch(err => console.log(err));
     }
+    if (page === "Bow Party") {
+      axios
+      .get(
+        ``)    }
   }
 });
 
