@@ -56,13 +56,15 @@ body {
   100% {
     background-position: 0% 50%;
   }
-}
+  bio {
+    margin: 1rem;
+    color: purple;
+  }
 
 @media (max-width: 549px){
   .hidden--mobile {
     display: none !important;
   }
-
   nav.hover{
     display: flex;
     align-items: center;
@@ -125,6 +127,7 @@ body {
 
   #bio {
     margin-right: 3rem;
+
   }
 
   #bio img {
