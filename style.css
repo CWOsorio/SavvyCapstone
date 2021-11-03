@@ -59,7 +59,7 @@ body {
   bio {
     margin: 1rem;
     color: purple;
-
+  }
 
 @media (max-width: 549px){
   .hidden--mobile {
