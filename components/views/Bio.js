@@ -1,7 +1,7 @@
 import html from "html-literal";
 import ellaDrawing from '/assets/img/ellaDrawing.jpg';
 export default st => html `
-<section id="bio">
+<section>
 <img src="${ellaDrawing}" />
 
 <h2>Bows Bow and More Bows</h2>
