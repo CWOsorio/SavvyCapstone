@@ -19,5 +19,6 @@ like ${kelvinToFahrenheit(st.weather.feelsLike)} F
 </audio>
 
 <img src="${ellaDrawing}" />
+</section>
 `;
 

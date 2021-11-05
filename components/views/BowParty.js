@@ -7,8 +7,8 @@ export default st => html `
 <h2>HAVE A BOW PARTY WITH SPOTIFY</h2>
 <br>
 <br>
-<p>Would you like to create customized hair accessories for your little girl! Let me know! Send me your contact information below and I can point you in the right direction! Enjoy the playlist below with your little one while your have fun creating your own customized hair bows!!
-</p>
+<h2>Would you like to create customized hair accessories for your little girl! Let me know! Send me your contact information below and I can point you in the right direction! Enjoy the playlist below with your little one while your have fun creating your own customized hair bows!!
+</h2>
 <br>
 <form action="https://formspree.io/f/{form_id}" method="post">
   <label for="email">Your Email</label>
