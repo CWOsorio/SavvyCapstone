@@ -4,7 +4,7 @@ export default st => html `
 <section>
 <img src="${ellaDrawing}" />
 
-<h2>Bows Bow and More Bows</h2>
+<h3>Bows Bow and More Bows</h3>
 
 <p>On my site you will see handcrafted bows that any little girl
 will enjoy wearing. Hair bows are fun accessories that can be worn on ANY occasion! We
