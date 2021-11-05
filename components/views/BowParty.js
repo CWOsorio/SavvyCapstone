@@ -2,13 +2,13 @@ import html from "html-literal";
 
 export default st => html `
 
-<section id="party">
+<section>
 
-<h2>HAVE A BOW PARTY WITH SPOTIFY</h2>
+<h3>HAVE A BOW PARTY WITH SPOTIFY</h3>
 <br>
 <br>
-<h2>Would you like to create customized hair accessories for your little girl! Let me know! Send me your contact information below and I can point you in the right direction! Enjoy the playlist below with your little one while your have fun creating your own customized hair bows!!
-</h2>
+<h3>Would you like to create customized hair accessories for your little girl! Let me know! Send me your contact information below and I can point you in the right direction! Enjoy the playlist below with your little one while your have fun creating your own customized hair bows!!
+</h3>
 <br>
 <form action="https://formspree.io/f/{form_id}" method="post">
   <label for="email">Your Email</label>
