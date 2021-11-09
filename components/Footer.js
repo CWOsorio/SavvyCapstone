@@ -1,6 +1,7 @@
 import html from "html-literal"
-
+import bow from '/assets/img/bow.jpg';
 export default () => html`
+
 <footer>
-  &copy; 2020 Cherisse
+© 2021 Cherisse <img src="${bow}"></img>
 </footer>`;
