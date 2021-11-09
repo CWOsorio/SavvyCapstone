@@ -22,7 +22,7 @@
   text-align: center;
 }
 .biopic:hover {
-  transform: scale(2.5);
+  transform: scale(1.5);
 }
 
 
@@ -132,16 +132,16 @@ header {
   color: rgb(136, 15, 184);
   height: 10vh;
 }
-
-/* .jumbotron {
+.jumbotron {
   padding: 5px;
-  height: 10vh; */
-
+  height: 10vh;
   background-image: linear-gradient(180deg,pink , rgb(238, 88, 238));
 
 }
-/* p {font-size: large;}
-    text-align: center; */
+p {
+  font-size: large;
+  text-align: center;
+}
 
 h1 {
   font-size: 25px;
