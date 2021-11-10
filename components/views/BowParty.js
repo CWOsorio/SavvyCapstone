@@ -10,10 +10,21 @@ export default st => html `
 <h3>Would you like to create customized hair accessories for your little girl! Let me know! Send me your contact information below and I can point you in the right direction! Enjoy the playlist below with your little one while your have fun creating your own customized hair bows!!
 </h3>
 <br>
-<form action="https://formspree.io/f/{form_id}" method="post">
-  <label for="email">Your Email</label>
-  <input name="Email" id="email" type="email">
-  <button type="submit">Submit</button>
+
+<form
+  action="https://formspree.io/f/meqvbgry"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
 </form>
 <br>
 <br>
