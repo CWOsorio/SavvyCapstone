@@ -1,7 +1,7 @@
-import html from "html-literal"
-import bow from '/assets/img/bow.jpg';
-export default () => html`
-
+export default () => `
 <footer>
-&copy; 2021 Cherisse <img src="${bow}"></img>
-</footer>`;
+
+<p>🎀🎀🎀 &copy; | Cherisse Watts Osorio |  🎀🎀🎀</p>
+</footer>
+
+`;
