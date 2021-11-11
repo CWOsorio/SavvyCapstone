@@ -14,8 +14,9 @@ like ${kelvinToFahrenheit(st.weather.feelsLike)} F
 <br>
 
 <p>WELCOME TO THE WORLD OF BOWS!! I HOPE YOU ENJOY YOUR STAY</p>
-<section id="jumbotron">
-    <h2>Gabriella loves Bows</h2>
+
+
+    <h2 style="color:purple; text-align:center;"> Gabriella Loves Bows</h2>
     <br>
     <audio controls>
 <source src="${HairUp}" type="audio/mpeg">
