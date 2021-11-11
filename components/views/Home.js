@@ -2,6 +2,7 @@ import html from "html-literal";
 import ellaDrawing from '/assets/img/ellaDrawing.jpg';
 import HairUp from '/assets/music/HairUp.mp3';
 import fairySound from '/assets/music/fairySound.mp3';
+import ellaSparkle from '/assets/video/ellaSparkle.mp4';
 
 const kelvinToFahrenheit = kelvinTemp =>
   Math.round((kelvinTemp - 273.15) * (9 / 5) + 32);
@@ -25,10 +26,12 @@ like ${kelvinToFahrenheit(st.weather.feelsLike)} F
 <audio autoplay>
 <source src="${fairySound}" type="audio/mpeg">
 </audio>
-
-
 <br>
-<img src="${ellaDrawing}" />
+<center>
+<video width="320" height="240" autoplay loop muted>
+<source src="${ellaSparkle}" type="video/mp4">
+</video>
+</center>
 </section>
 
 

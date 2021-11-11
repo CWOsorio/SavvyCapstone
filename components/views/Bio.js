@@ -27,7 +27,7 @@ export default st => html `
             </audio>
 
 <p>
-Welcome to my site everyone!! I love to do all types of crafts from making sparkly creations to creating personalized gear. My favorite craft of all is making handcrafted bows for bows for my little girl! It's exciting thinking of a new creation and having my daughter share her ideas on what hair accessory she would love to see next. Hair bows are fun accessories that can be worn on ANY occasion! We have created a wide variety that my daughter and I have named. They can be categorized as being <i>"Playground Bows”,"I Feel Fancy Today!"</i> or fun holiday designs. I LOVE creating hair bows for my little girl and I hope you enjoy viewing them as much as I do creating them!
+Welcome to my site everyone!! I love to do all types of crafts from making sparkly creations to designing personalized gear. One of my all time favorites is making handcrafted bows for my little girl! It's exciting thinking of a new creation and having my daughter share her ideas on what hair accessory she would love to see next. Hair bows are fun accessories that can be worn on ANY occasion! We have created a wide variety and my daughter and I have given all of them nicknames. They can be categorized as being <i>"Playground Bows”, "I Feel Fancy Today!"</i> or fun holiday designs. I LOVE creating these accessories for my little girl and I hope you enjoy viewing them as much as I do creating them!
 </p>
 <div>
 
