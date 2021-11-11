@@ -1,5 +1,5 @@
 export default {
-  header: "The Gallery Page",
+  header: "A Gallery Bows",
   page: "Gallery"
 
 };

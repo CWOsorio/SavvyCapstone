@@ -1,7 +1,7 @@
 export default () => `
 <footer>
 
-<p>🎀🎀🎀 &copy; | Cherisse Watts Osorio |  🎀🎀🎀</p>
+<p>🎀🎀🎀 &copy; 2021 | Cherisse Watts Osorio |  🎀🎀🎀</p>
 </footer>
 
 `;
